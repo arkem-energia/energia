@@ -143,7 +143,10 @@ body {
   overflow-x: hidden;
   line-height: 22px;
 }
-
+.two-columns {
+width: 75%;
+display: inline-block;
+}
 /* Back to top button */
 .back-to-top {
   position: fixed;
