@@ -26,10 +26,10 @@
     display: inline-block;
     padding: 0 8px;
   }
-  .layer-1-1 h2 {
+  .layer-1-1 h4 {
     font-size: 24px;
   }
-  .layer-1-2 h1 {
+  .layer-1-2 h3 {
     font-size: 31px;
     line-height: 38px;
     padding: 0px 30px;
@@ -162,11 +162,11 @@
     margin-top: 60px;
   }
 
-  .slider-content h2 {
+  .slider-content h4 {
     font-size: 18px !important;
     line-height: 24px !important;
   }
-  .slider-content h1 {
+  .slider-content h3 {
     font-size: 20px !important;
     line-height: 26px !important;
   }
