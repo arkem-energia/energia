@@ -35,13 +35,13 @@ Supports Thumbs: true
   margin: 20px 0;
 }
 
-.layer-1-1 h2 {
+.layer-1-1 h4 {
   color: #fff;
   font-size: 32px;
   font-weight: 700;
 }
 
-.layer-1-2 h1 {
+.layer-1-2 h3 {
   color: #fff;
   font-size: 50px;
   font-weight: 700;
@@ -144,7 +144,7 @@ Supports Thumbs: true
   .slider-content {
     padding: 93px 0;
   }
-  .layer-1-2 h1 {
+  .layer-1-2 h3 {
     font-size: 22px;
     line-height: 24px;
   }
@@ -165,11 +165,11 @@ Supports Thumbs: true
   .layer-1-2 {
     margin: 10px 0;
   }
-  .layer-1-1 h2 {
+  .layer-1-1 h4 {
     font-size: 14px;
     line-height: 16px;
   }
-  .layer-1-2 h1 {
+  .layer-1-2 h3 {
     font-size: 14px;
     line-height: 16px;
   }
@@ -190,7 +190,7 @@ Supports Thumbs: true
   .slider-content {
     padding: 70px 0px;
   }
-  .layer-1-1 h2, .layer-1-2 h1 {
+  .layer-1-1 h4, .layer-1-2 h3 {
     font-size: 24px;
     line-height: 30px;
   }
@@ -251,7 +251,7 @@ preview-1
 }
 
 .preview-1:hover .nivo-directionNav a {
-  opacity: 1;
+  opacity: 1; 
 }
 
 .nivo-prevNav {
@@ -316,7 +316,7 @@ preview-1
   position: relative;
   z-index: 9;
   border-radius: 100%;
-  opacity: 0;
+  opacity: 0; 
   z-index: -999;
 }
 
